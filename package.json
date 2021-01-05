@@ -1,7 +1,7 @@
 {
-  "name": "koa-rapid-router",
-  "version": "1.0.9",
-  "description": "fastest router for koa",
+  "name": "@pwp-app/koa-rapid-router",
+  "version": "1.1.0",
+  "description": "A fixed version of koa-rapid-router",
   "main": "index.js",
   "types": "types/index.d.ts",
   "scripts": {
