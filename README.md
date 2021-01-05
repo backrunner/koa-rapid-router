@@ -1,6 +1,8 @@
 
 # koa-rapid-router
 
+[THIS IS A MODIFIED VERSION WHICH FIXED SOME ISSUES OF ORIGINAL VERSION]
+
 It is a routing architecture suitable for any service, and we usually use it on KOA, this is currently the fastest routing architecture.
 
 ## Install

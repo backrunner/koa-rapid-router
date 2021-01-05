@@ -30,12 +30,12 @@
     "performance",
     "fastest"
   ],
-  "author": "evio",
+  "author": "BackRunner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cevio/koa-rapid-router/issues"
+    "url": "https://github.com/backrunner/koa-rapid-router/issues"
   },
-  "homepage": "https://github.com/cevio/koa-rapid-router#readme",
+  "homepage": "https://github.com/backrunner/koa-rapid-router#readme",
   "dependencies": {
     "koa-compose": "^4.1.0",
     "methods": "^1.1.2"
